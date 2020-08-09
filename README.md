@@ -1,2 +1,4 @@
 # approximate-solution-finder
-We provide an open-source approximate logic design tool.
+We provide an open-source library of approximate multipliers (4x4, 8x8 and 16x16) described using Verilog HDL.
+
+The article related to the library "AxRMs: Design and evaluation of approximate recursive multipliers under error constraint" is currently under review.
